@@ -4,7 +4,7 @@ This project is part of the course [Linux Embedded System Topics and Projects](h
 
 This is the **main repository**.
 
-## Source code structure:
+## Source Code Structure
 
 - [wiki page](https://github.com/cu-ecen-aeld/final-project-EsGeh/wiki/Project-Overview): documentation
 - [main repository](https://github.com/house-automation-proof-of-concept/final-project-assignment-house-automation-poc): repo that holds the source code for the project
