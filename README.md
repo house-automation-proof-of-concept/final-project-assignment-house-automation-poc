@@ -10,3 +10,7 @@ This is the **main repository**.
 - [main repository](https://github.com/house-automation-proof-of-concept/final-project-assignment-house-automation-poc): repo that holds the source code for the project
 - [course repository](https://github.com/cu-ecen-aeld/final-project-EsGeh): a stub that serves as an entry point for the grading procedure of this course
 - [project schedule page](https://github.com/orgs/house-automation-proof-of-concept/projects/2)
+
+## Team Project Members
+
+- [EsGeh](https://github.com/EsGeh): All planning and implementation is done by myself
